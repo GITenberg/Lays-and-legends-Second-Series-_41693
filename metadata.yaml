@@ -1,0 +1,30 @@
+_repo: Lays-and-legends-Second-Series-_41693
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41693-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Bland, Edith Nesbit
+    - Nesbit, Edith
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: ''
+gutenberg_issued: '2012-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcc 'PR'
+title: Lays and Legends (Second Series)
+url: http://www.gutenberg.org/ebooks/41693
